@@ -1,9 +1,9 @@
 {
-  "name": "contentful-starter-gatsby-blog",
-  "description": "Contentful Gatsby Starter Blog",
+  "name": "webstacks-challenge",
+  "description": "Webstacks Coding Challenge",
   "private": true,
   "version": "0.0.1",
-  "author": "Contentful <opensource@contentful.com>",
+  "author": "Kian Zarrabi",
   "bugs": {
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },
@@ -36,7 +36,7 @@
   "engines": {
     "node": ">=10.13.0"
   },
-  "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
+  "homepage": "https://github.com/kzarrabi24/webstacks-challenge#readme",
   "keywords": [
     "gatsby",
     "contentful",
@@ -46,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/contentful/starter-gatsby-blog.git"
+    "url": "git+https://github.com/kzarrabi24/webstacks-challenge.git"
   },
   "scripts": {
     "dev": "gatsby develop",

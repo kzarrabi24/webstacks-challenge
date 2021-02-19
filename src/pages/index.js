@@ -30,9 +30,9 @@ class RootIndex extends React.Component {
             <CallToAction cta={cta}/>
            <div className="wrapper">
             <ServiceList>
-              {services.map(({ node }) => {
+              {services.map(({ node, key }) => {
                 return (
-                  <div key={node.spaceId}>
+                  <div key={key}>
                     <Service service={node} />
                   </div>
                 )
