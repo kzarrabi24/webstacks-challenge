@@ -48,7 +48,7 @@ const Navbox = styled.div`
   @media (max-width: 768px) {
     flex-direction: column;
     position: fixed;
-    width: 75%;
+    width: 100%;
     align-items: center;
     justify-content: flex-start;
     padding-top: 10vh;

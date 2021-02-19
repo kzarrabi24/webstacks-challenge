@@ -7,7 +7,7 @@ import styled from 'styled-components';
 const Wrapper = styled.div`
   padding-left: 20px;
   padding-right: 20px;
-  @media(min-width: 992px) {
+  @media(min-width: 1200px) {
     padding-left: 0;
     padding-right: 0;
   }
