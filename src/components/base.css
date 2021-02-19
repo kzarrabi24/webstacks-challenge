@@ -41,21 +41,6 @@ a {
   grid-gap: 5vmin;
 }
 
-.service-list {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding-top: 112px;
-}
-
-@media(min-width: 992px) {
-  .service-list {
-    flex-wrap: nowrap;
-    justify-content: space-evenly;
-  }
-}
-
 /**
  *
  */
@@ -98,15 +83,5 @@ a {
 }
 
 .index-content {
-  padding-top: 73.2px;
-}
-
-.homepage-background {
-  z-index: -1;
-  position: absolute;
-}
-
-.homepage-background img {
-  opacity: 20%;
-  display: block;
+  padding-top: 30.7px;
 }
